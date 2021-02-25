@@ -1,0 +1,53 @@
+[
+  {
+    "name": "JUDAS AND THE BLACK MESSIAH",
+    "genre": [
+      "Biography",
+      "History",
+      "Drama"
+    ],
+    "score": 5,
+    "commnets": "good one bla bla",
+    "year": "2021",
+    "director":"Shaka King",
+    "producer": [
+      "Ryan Coogler",
+      "Charles D. King",
+      "Shaka King"
+    ]
+  },
+  {
+    "name": "DEAD PIGS",
+    "genre": [
+      "Comedy",
+      "Drama"
+    ],
+    "score": 4,
+    "commnets": "chinese movie",
+    "year": "2021",
+    "director": "Cathy Yan",
+    "producer": [
+      "Jane Zheng",
+      "Clarissa Zhang"
+    ]
+  },
+  {
+    "name": "BLACKKKLANSMAN",
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "score": 4,
+    "commnets": "black comendy :D",
+    "year": "2018",
+    "director": "Spike Lee",
+    "producer": [
+      "Sean McKittrick",
+      "Raymond Mansfield",
+      "Jason Blum",
+      "Jordan Peele",
+      "Spike Lee"
+    ]
+  }
+]
