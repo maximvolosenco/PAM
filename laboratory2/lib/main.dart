@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'MainScreen.dart';
+import 'MainScreenxx.dart';
+import 'MenuBar/MainMenu.dart';
 // import 'FilmDataController.dart';
 
 
@@ -12,7 +13,11 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primaryColor: Color(0xff0e0d0d),
       ),
-      home: MainScreen(),
+      debugShowCheckedModeBanner: false,
+      title: "Side Bar App",
+      home: MainMenu(),
+
+      // MainScreen(),
 
       // MainScreen(),
     );
