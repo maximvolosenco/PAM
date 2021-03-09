@@ -58,6 +58,7 @@ flutter:
     - assets/media/icons/add_media_icon.png
     - assets/media/icons/settings_icon.png
     - assets/media/icons/user_account_icon.png
+    - assets/media/icons/homeScreen.png
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
